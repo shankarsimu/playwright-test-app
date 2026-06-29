@@ -258,18 +258,7 @@ Order Confirmation
       ▼
 Logout
 ```
-
----
-
-# 📷 Screenshots
-
-```
-📁 test-results/
-
-├── screenshot.png
-├── trace.zip
-├── video.webm
-```
+ 
 
 ---
 
