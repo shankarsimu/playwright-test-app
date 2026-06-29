@@ -8,6 +8,6 @@ export class OrderPage {
 
         await expect(
             this.page.locator('.complete-header')
-        ).toContainText('Thank you for your order!');
+        ).toContainText('Thank you for your order!!!!!!!!!!!!');
     }
 }
