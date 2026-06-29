@@ -72,7 +72,7 @@ playwright-ecommerce-framework
 │   ├── search.spec.ts
 │   ├── cart.spec.ts
 │   ├── checkout.spec.ts
-│   └── ecommerce-e2e.spec.ts
+│   └── ecommerce.spec.ts
 │
 ├── utils
 │   └── testData.ts
