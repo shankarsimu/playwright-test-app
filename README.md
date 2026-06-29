@@ -182,7 +182,7 @@ npx playwright test --project=webkit
 Run a single test
 
 ```bash
-npx playwright test tests/ecommerce-e2e.spec.ts
+npx playwright test tests/ecommerce.spec.ts
 ```
 
 ---
